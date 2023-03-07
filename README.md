@@ -1,10 +1,24 @@
+<p align="center">
+
+  <img src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
+<div align="center">
+
+  **"Practice the philosophy of continuous improvement. Get a little bit better every single day.” — Brian Tracy**
+</div>
+
 <h1 align="center">Hi There 👋, I'm Abdelrhman Hamdy</h1>
 <h3 align="center">A passionate Junior DevOps Engineer</h3>
 
-- 🔭 I’m currently working on [Database Migration](https://github.com/abdelrhman-hamdy/Database-migration-1.git)
 
-- 📫 How to reach me **abdelrhman.hamdy1969@gmail.com**
+<div align="center">
 
+
+ 🔭 I’m currently working on [Database Migration](https://github.com/abdelrhman-hamdy/Database-migration-1.git)
+
+ 📫 How to reach me [Gmail](abdelrhman.hamdy1969@gmail.com)
+ 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T0N3TDFynWQjdsCpOJOeXps5yAuesrvC/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdlrahman-hamdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdlrahman-hamdy" height="30" width="40" /></a>
